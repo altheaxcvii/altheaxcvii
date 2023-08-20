@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=300&section=header&text=Welcome%20to%20Althea's%20Github!&fontSize=45)
 
 
-HELLO!<br><br>👩🏻‍🔬Diploma and Degree in Biomedical Science<br>👩🏻‍💻Looking to transition into a data analyst/data scientist role<br>💻Have experience with Python and R. Familiar with some statistical software.<br>✏️Currently studying up on data analyst skill, feel free to provide feedbacks on my work<br>⚙️Learning machine learning right now<br>👌🏻Looking for full time opportunity in the field of data analytics/data science<br><br>
+HELLO!<br><br>👩🏻‍🔬Diploma and Degree in Biomedical Science<br>❤️‍🩹Healthcare Data Analyst<br>💻Experienced in Python and R. Familiar with some statistical software.<br>✏️Currently brushing up on data analyst skill, feel free to provide feedbacks on my work<br>⚙️Learning machine learning right now<br><br>
 
 
 ## 💬 Let's chat:
