@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC2D1&height=300&section=header&text=Welcome%20to%20Althea's%20Github!&fontSize=45)
 
 
-HELLO!<br><br>👩🏻‍🔬Diploma and Degree in Biomedical Science<br>❤️‍🩹Healthcare Data Analyst, hoping to work in healthcare AI in the near future<br>💻Experienced in Python and R. Familiar with some statistical software.<br>✏️Currently brushing up on data science skill, feel free to provide feedbacks on my work<br>🤍Current goal: To do a Masters in IT/CS/DS with a focus on AI on a scholarship<br><br>
+HELLO!<br><br>👩🏻‍🔬Diploma and Degree in Biomedical Science<br>❤️‍🩹Healthcare Data Analyst, hoping to work in healthcare AI in the near future<br>💻Experienced in Python, R.and VBA<br>📊Familiar with some statistical software such as Graphpad Prism and Minitab<br>🤖RPA trained<br>✏️Currently brushing up on data science skill, feel free to provide feedbacks on my work<br>🤍Current goal: To do a Masters in IT/CS/DS with a focus on AI on a scholarship<br><br>
 
 
 ## 💬 Let's chat:
-<a href="https://instagram.com/altheaxcvii"><img src="https://i.ibb.co/YLS0rY0/icons8-instagram-512.png" alt="instagram" border="0" width="100" height="100"></a>
+<a href="https://instagram.com/qianxcvii"><img src="https://i.ibb.co/YLS0rY0/icons8-instagram-512.png" alt="instagram" border="0" width="100" height="100"></a>
 <a href="https://www.linkedin.com/in/qianweilim/"><img src="https://i.ibb.co/pv1HFMF/icons8-linkedin-512.png" alt="icons8-linkedin-512" border="0" width="100" height="100"></a>
 <a href="mailto:qianxcvii@gmail.com"><img src="https://i.ibb.co/D8SX5Ck/icons8-gmail-logo-512.png" alt="icons8-gmail-logo-512" border="0" width="100" height="100"></a>
-<a href="https://t.me/altheaxcvii"><img src="https://i.ibb.co/0VytDv1/icons8-telegram-app-512.png" alt="icons8-telegram-app-512" border="0" width="100" height="100"></a><a href="https://discordapp.com/users/551286264620384278"><img src="https://i.ibb.co/hZzk4Dj/icons8-discord-512.png" alt="icons8-discord-512" border="0" width="100" height="100"></a><br />
+<a href="https://t.me/qianxcvii"><img src="https://i.ibb.co/0VytDv1/icons8-telegram-app-512.png" alt="icons8-telegram-app-512" border="0" width="100" height="100"></a><a href="https://discordapp.com/users/551286264620384278"><img src="https://i.ibb.co/hZzk4Dj/icons8-discord-512.png" alt="icons8-discord-512" border="0" width="100" height="100"></a><br />
 
 
 # 💻 Tech Stack:
